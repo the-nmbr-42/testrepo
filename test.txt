@@ -1,2 +1,4 @@
 This is a test text file. I'm currently in the master branch
 Now editing in a branch. This is line 2
+Adding this line from local machine
+
